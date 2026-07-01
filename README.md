@@ -2,8 +2,9 @@
 
 # Hi, I'm Rulio 😎
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub;Coding+%7C+Learning+%7C+Building" />
-
+<a href="https://github.com/Rulio723">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub;Coding+%7C+Learning+%7C+Building" />
+</a>
 <br/>
 
 <a href="https://github.com/Rulio723">
