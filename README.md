@@ -16,6 +16,8 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="80%" />
+<a href="https://github.com/Rulio723">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="80%" />
+</a>
 
 </div>
