@@ -1,18 +1,21 @@
-### Rulio's Github Stats 😎
+<div align="center">
 
-<!--
-**Rulio723/Rulio723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rulio 😎
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub;Coding+%7C+Learning+%7C+Building" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rulio723&show_icons=true&theme=tokyonight)](https://github.com/Rulio723)
+<a href="https://github.com/Rulio723">
+  <img height="180" src="https://stats-mu-mauve.vercel.app/api?username=Rulio723&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&custom_title=Rulio's%20GitHub%20Stats" />
+</a>
+
+<a href="https://github.com/Rulio723">
+  <img height="180" src="https://stats-mu-mauve.vercel.app/api/top-langs?username=Rulio723&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="80%" />
+
+</div>
